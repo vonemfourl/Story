@@ -5,3 +5,5 @@ Test 1 changes
 Test 2
 
 Test 3
+
+Updating Chapter 1 after creating new branch and committing to it.
