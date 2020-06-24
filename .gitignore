@@ -1,1 +1,5 @@
 .DS_Store
+
+#This is a comment, which starts with #
+
+#git ignore also take wild card entires; "*.txt" which ignores all the files with extension .txt
